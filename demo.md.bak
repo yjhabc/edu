@@ -2,7 +2,7 @@ This is the first line used for the pull request test.
 
 This is the second memo!
 
-And the third, special for the conflict-test branch.
+And the third.
 
 And the final!! This is it.
 
